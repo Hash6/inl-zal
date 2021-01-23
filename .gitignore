@@ -1,0 +1,5 @@
+pl_spacy_model_morfeusz-0.1.3.tar.gz
+ClarinPlTrain/nbest.txt
+ClarinPlTrain/lat.txt
+__pycache__/*
+.idea/*
